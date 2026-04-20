@@ -1,0 +1,12 @@
+1.Use a for loop to:
+Enter a number between 1 and 100.
+2.Skip printing if the number is divisible by 3 using continue.
+3.Stop the loop if the number is divisible by 9 using break.
+4.Use a while loop to:
+i.Count down from the user’s number to 1.
+5.Use pass when the number is exactly 5.
+6.Stop when number is less than 1.
+7.Using a for loop, print each letter in the word "PYTHON" except for "H".
+8.Start from 20, count down using while loop.
+i.Skip number 17 using continue
+ii.Break at number 13
