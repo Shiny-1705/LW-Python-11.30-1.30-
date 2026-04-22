@@ -1,0 +1,23 @@
+List Tasks with Method:
+1.Create a list of 10 numbers and use the following methods:
+append() → Add a new number at the end.
+insert() → Insert a number at index 3.
+remove() → Remove a specific number.
+pop() → Remove the last element.
+extend() → Add elements of another list.
+2.Write a program to count how many times a number occurs in a list (use count()).
+3.Write a program to find the index of a specific element (use index()).
+4.Create a list and reverse it using the reverse() method.
+5.Sort a list of numbers in ascending and descending order (use sort()).
+6.Remove all elements from a list (use clear()).
+7.Copy a list into another variable (use copy()).
+🔹 Tuple Tasks with Method
+8.Create a tuple of numbers and:
+Find the length (use len()).
+Find the maximum and minimum values (use max(), min()).
+9.Write a program to count how many times an element occurs in a tuple (use count()).
+10.Write a program to find the index of an element in a tuple (use index()).
+11.Convert a tuple into a list, add some elements, then convert it back into a tuple.
+12.Concatenate two tuples and print the result.
+13.Slice a tuple to print elements from index 2 to 5.
+14.Check if a given element exists in a tuple (using in operator).
