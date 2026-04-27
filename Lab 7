@@ -1,0 +1,40 @@
+Part 1: Dictionary Task
+👉 Task
+Create a dictionary to store student details and perform the following operations:
+student = {
+    "name": "John",
+    "age": 20,
+    "course": "Python"
+}
+🔹 Activities
+Use get() to display the value of "name".
+Display all keys using keys().
+Display all values using values().
+Display all key-value pairs using items().
+Add a new key "marks": 85 using update().
+Remove "course" using pop().
+Remove the last inserted item using popitem().
+Create a copy of the dictionary using copy().
+Clear all items using clear().
+
+PART:2 SET TASK
+👉 Task
+Create two sets:
+A = {1, 2, 3, 4}
+B = {3, 4, 5, 6}
+🔹 Activities
+Add an element 7 to set A.
+Remove element 2 using remove().
+Remove element 10 using discard() (observe what happens).
+Find the union of A and B.
+Find the intersection of A and B.
+Find the difference (A - B).
+Update A using difference_update(B).
+Check whether A is a subset of B.
+Check whether A is a superset of B.
+Check if A and B are disjoint.
+Remove a random element using pop().
+Create a copy of set A.
+Clear all elements from set B.
+
+
