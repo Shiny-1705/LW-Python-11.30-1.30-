@@ -1,0 +1,20 @@
+1. Greeting Function
+Write a function to print "Hello!"
+🔹 2. Add Function
+Write a function to add two numbers.
+🔹 3. Lambda Square
+Write a function that uses lambda to find square of a number.
+🔹 4. Even Numbers (Filter)
+Write a function to return even numbers from a list using filter().
+🔹 5. x2 (Map)
+Write a function to multiple the numbers in 2 in a list using map().
+🔹 6. Factorial (Recursion)
+Write a function to find factorial of a number using recursion.
+🔹 7. Print Numbers (Recursion)
+Write a function to print numbers from 1 to 5 using recursion.
+🔹 8. Lambda Add
+Write a function that uses lambda to add two numbers.
+🔹 9. Filter > 5
+Write a function to get numbers greater than 5 using filter().
+🔹 10. Map Square
+Write a function to return squares of list elements using map().
