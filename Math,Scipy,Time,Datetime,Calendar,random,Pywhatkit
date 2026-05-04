@@ -1,0 +1,41 @@
+🔢 1. Math Module (5 Questions)
+Find square root of a number
+Find power of a number (e.g., 3⁴)
+Find pi value
+Find ceiling and floor values
+Find factorial of a number
+⚖️ 2. Unit Conversion (Hours / Grams) (5 Questions)
+Convert hours to minutes
+Convert minutes to seconds
+Convert grams to kilograms
+Convert kilograms to grams
+Convert hours to seconds
+⏰ 3. Time Module (5 Questions)
+Print current time
+Pause program for 3 seconds
+Print current time in readable format
+Display only hours, minutes, seconds
+📅 4. Datetime Module (5 Questions)
+Print today’s date
+Print current date and time
+Print only current year
+Print only current month
+Print only current day
+📆 5. Calendar Module (5 Questions)
+Display calendar of current month
+Display calendar of a given year
+Check if a year is leap year
+Print number of days in a month
+Print weekday of a given date
+🎲 6. Random Module (5 Questions)
+Generate random number (1–10)
+Generate random number (1–100)
+Pick a random element from a list
+Generate random float number
+Shuffle a list
+🌐 7. Pywhatkit Module (5 Questions)
+Search something in Google
+Open a YouTube video
+Play a song on YouTube
+Send a WhatsApp message (scheduled)
+Search and display a topic summary
