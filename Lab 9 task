@@ -1,0 +1,100 @@
+Lambda Tasks (10 Questions)
+
+🔹 1. Maximum of Three Numbers
+
+Write a lambda to find the largest of three numbers.
+
+🔹 2. Even or Odd
+
+Write a lambda to check whether a number is even or odd.
+
+🔹 3. Divisible Check
+
+Write a lambda to check if a number is divisible by 5.
+
+🔹 4. Square + Cube
+
+Write a lambda to return both square and cube of a number.
+
+🔹 5. Last Digit
+
+Write a lambda to get the last digit of a number.
+
+🔹 6. Positive or Negative
+
+Write a lambda to check whether a number is positive or negative.
+
+🔹 7. Pass or Fail
+
+Write a lambda to return:
+
+"Pass" if marks ≥ 40
+"Fail" otherwise
+🔹 8. Multiply Three Numbers
+
+Write a lambda to multiply three numbers.
+
+🔹 9. String Length
+
+Write a lambda to find the length of a string.
+
+🔹 10. Temperature Conversion
+
+Write a lambda to convert Celsius to Fahrenheit.
+
+MAPPING
+
+Simple Map Tasks (Easy Level)
+🔹 1. Square
+
+Use map() to find square of [1, 2, 3]
+
+🔹 2. Double
+
+Use map() to double [2, 4, 6]
+
+🔹 3. Add 1
+
+Use map() to add 1 to [5, 6, 7]
+
+🔹 4. Convert to String
+
+Use map() to convert [1, 2, 3] into strings
+
+🔹 5. Cube
+
+Use map() to find cube of [1, 2, 3]
+
+🔹 6. Uppercase
+
+Use map() to convert ["a", "b", "c"] to uppercase
+
+🔹 7. String Length
+
+Use map() to find length of ["hi", "hello", "bye"]
+
+🔹 8. Add Two Lists
+
+Use map() to add:
+[1, 2, 3] and [4, 5, 6]
+
+🔹 9. Multiply by 3
+
+Use map() to multiply [1, 2, 3] by 3
+
+🔹 10. Subtract 2
+
+Use map() to subtract 2 from [5, 6, 7]
+
+FILTERING
+
+Filter even numbers from [1, 2, 3, 4, 5]
+Filter odd numbers from [1, 2, 3, 4, 5]
+Filter numbers greater than 5 from [2, 6, 8, 1]
+Filter numbers less than 10 from [5, 12, 7, 20]
+Filter positive numbers from [1, -2, 3, -4]
+Filter negative numbers from [1, -2, 3, -4]
+Filter numbers divisible by 3 from [3, 5, 9, 10]
+Filter numbers divisible by 5 from [10, 12, 15, 7]
+Filter numbers between 1 and 10 from [0, 5, 12, 8]
+Filter numbers equal to 7 from [7, 2, 7, 4]
