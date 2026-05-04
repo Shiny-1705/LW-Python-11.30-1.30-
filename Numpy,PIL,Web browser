@@ -1,0 +1,18 @@
+🧪 NumPy Tasks
+Create a NumPy array with numbers [1, 2, 3, 4]
+Find the sum of elements in an array
+Find the maximum value in an array
+Multiply all elements in an array by 2
+Create an array of zeros of size 5
+🖼️ PIL 
+Open an image and display it
+Convert an image to grayscale
+Resize an image to 200×200
+Rotate an image by 90 degrees
+Save the modified image
+🌐 Web Browser Module Tasks
+Open Google homepage
+Open YouTube website
+Search a topic in Google
+Open a specific website (example: wikipedia.org)
+Open multiple websites one by one
